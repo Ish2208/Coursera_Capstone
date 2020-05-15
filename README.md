@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This would be used for the Applied Data Science Capstone Course by Coursera
+This repository is made for the Applied Data Science Capstone Course by Coursera
