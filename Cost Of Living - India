@@ -2,7 +2,9 @@ PROJECT
 
 COST OF LIVING IN INDIA
 
-Q. A description of the problem and a discussion of the background. 
+DATA
+
+A description of the problem and the background. 
 
   India is a country of huge population and in todays world, the population is increasing drastically. Keepng this in mind there
   are a lot of people from less developed areas who want to travel in search of education, job opportunities and a good living 
@@ -10,11 +12,17 @@ Q. A description of the problem and a discussion of the background.
   I aim to compare betweenn two cities that are not that populated and find a area that will include a lot of eminities including
   safety, restraunts, schools, playarea etc.
 
-Q. A description of the data and how it will be used to solve the problem. 
+A description of the data and how it will be used to solve the problem. 
 
   In this project, for the initial stage I have taken 2 datasets of all states of India, corresponding to the total population, 
   educated population and the road accidents that have occured in the year 2018. Using this already given data and acquiring data
   from Foursquare I am going to dive deeper into other eminities that will make the neighbourhod a perfect one to live in !
+  
+  CSV File :
+  1. Road-Accidents-2018-Annexure
+  https://data.gov.in/sites/default/files/dataurl04052020/Road-Accidents-2018-Annexure-13.csv
+  2. State wise educated and total population
+  https://data.gov.in/sites/default/files/dataurl08052020/NCRB_CII_2018_State_Table20D.3_2.csv
 
 
 
